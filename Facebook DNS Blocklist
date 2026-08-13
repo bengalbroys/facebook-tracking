@@ -1,3 +1,5 @@
+! Title: Facebook DNS Blocklist
+
 ||ads.facebook.com^
 ||an.facebook.com^
 ||analytics.facebook.com^
